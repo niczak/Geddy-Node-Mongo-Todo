@@ -1,0 +1,42 @@
+[Mon, 02 Apr 2012 19:45:26 GMT] INFO Server starting with config: {
+  "environment": "development",
+  "workers": 1,
+  "port": 4000,
+  "debug": true,
+  "rotateWorkers": false,
+  "rotationWindow": 7200000,
+  "rotationTimeout": 300000,
+  "logDir": "/home/niczak/Dev/Node/Geddy/todo_app/log",
+  "gracefulShutdownTimeout": 30000,
+  "heartbeatInterval": 5000,
+  "heartbeatWindow": 20000,
+  "staticFilePath": "/home/niczak/Dev/Node/Geddy/todo_app/public",
+  "sessions": {
+    "store": "memory",
+    "key": "sid",
+    "expiry": 1209600
+  },
+  "cookieSessionKey": "sdata",
+  "metrics": null,
+  "i18n": {
+    "defaultLocale": "en-us",
+    "loadPaths": [
+      "/home/niczak/Dev/Node/Geddy/todo_app/config/locales"
+    ]
+  },
+  "ssl": null,
+  "model": {
+    "useTimestamps": false,
+    "forceCamel": true
+  },
+  "detailedErrors": true,
+  "hostname": null
+}
+[Mon, 02 Apr 2012 19:45:26 GMT] INFO Creating 1 worker process.
+[Mon, 02 Apr 2012 19:45:26 GMT] INFO Server worker running in development on port 4000 with a PID of: 13844
+[Mon, 02 Apr 2012 19:45:26 GMT] DEBUG LOGGING STARTED ============================================
+[Mon, 02 Apr 2012 19:45:26 GMT] DEBUG ============================================================
+[Mon, 02 Apr 2012 19:46:52 GMT] INFO Creating 1 worker process.
+[Mon, 02 Apr 2012 19:46:52 GMT] INFO Server worker running in development on port 4000 with a PID of: 13866
+[Mon, 02 Apr 2012 19:46:52 GMT] DEBUG LOGGING STARTED ============================================
+[Mon, 02 Apr 2012 19:46:52 GMT] DEBUG ============================================================

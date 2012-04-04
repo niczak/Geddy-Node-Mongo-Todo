@@ -1,0 +1,1 @@
+This is a sample to do list project using Node.js, Geddy and MongoDB.  Code was taken from NetTuts and modified a bit.  A significant number of comments were added along with some code/style tweaks.  You can find the complete tutorial here: http://net.tutsplus.com/tutorials/javascript-ajax/persisting-your-todo-list-with-mongodb-and-geddy/
